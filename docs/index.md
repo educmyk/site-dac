@@ -3,23 +3,26 @@
 layout: home
 
 hero:
-  name: "Site DAC"
+  name: "Jorna Científico"
   text: "Diretório Acadêmico - UAM SJC"
-  tagline: Informações sobre o DAC/UAM-SJC
+  tagline: "Bem-vindo ao Jornal científico do Diretório Acadêmico UAM SJC"
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Ver edições
+      link: /editorial
     - theme: alt
-      text: API Examples
-      link: /congressos/api-examples
+      text: Explorar 
+      link: /guia
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - icon: ⭐
+    title: Marque essa URL como favorito
+    details: Salve essa URL para não perder as novidades do Diretorio Acadêmico.
+  - icon: ✅
+    title: Seu feedback é muito importante
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur at euismod nisl, in mattis justo.
+  - icon: ⚠️
+    title: Aviso!
+    details: Vivamus ullamcorper, lectus quis tristique blandit, nibh dolor malesuada diam, in sagittis magna diam eu leo.
 ---
 
